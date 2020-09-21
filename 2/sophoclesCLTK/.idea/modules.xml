@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CLTKTutorials.iml" filepath="$PROJECT_DIR$/.idea/CLTKTutorials.iml" />
+      <module fileurl="file://$USER_HOME$/cltk_data/greek/text/greek_text_perseus/Sophocles/.idea/Sophocles.iml" filepath="$USER_HOME$/cltk_data/greek/text/greek_text_perseus/Sophocles/.idea/Sophocles.iml" />
+    </modules>
+  </component>
+</project>
