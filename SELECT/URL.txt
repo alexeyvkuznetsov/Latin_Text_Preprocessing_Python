@@ -15,6 +15,15 @@ https://github.com/sjhuskey/what-is-digital-latin
 Text mining dreek
 https://github.com/kasev/DiRECT-rep
 
+
+https://github.com/milescward/UsingCLTK
+
+
+
+https://github.com/bwhicks/pliny-data
+
+Data scraping tools and notes for Pliny's Epistulate from PHI7
+https://github.com/bwhicks/PlinyProject
 https://github.com/kasev/text-mining_python
 
 
