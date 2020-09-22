@@ -3,10 +3,21 @@
 LDA
 https://github.com/ykim01/Hauber-2017
 
+https://github.com/alan-turing-institute/hartlib
 
 
 
+https://github.com/aashu1328/Natural-language-Processing
 
+https://github.com/JamesWinestock/cltk_experiments
+
+
+https://github.com/eoershova/HSE_projects
+
+
+
+Много разных примеров
+https://github.com/kylepjohnson/notebooks
 
 
 
