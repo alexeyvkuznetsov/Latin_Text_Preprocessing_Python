@@ -18,7 +18,39 @@ https://github.com/kasev/DiRECT-rep
 https://github.com/kasev/text-mining_python
 
 
+CLTK Greek
+https://github.com/gymnosophist/dfhg_analysis
 
+
+https://github.com/Migabaj/cltk_test
+https://github.com/Migabaj/latin_perseus_word2vec
+
+
+
+Ancient Greek Semantic Spaces
+https://github.com/alan-turing-institute/ancient-greek-semantic-space
+
+
+Create a word cloud from the Iliad
+https://github.com/danjane/programmation-langues-anciennes
+
+
+https://github.com/marouenez/Topic_Extraction_Trend_Detection
+
+
+Exploring latent attitudes using word2vec
+https://github.com/hodgsim/NLP_Latent_Attitudes
+
+Библиотека
+Corpus Analytics for English, Latin, and Greek
+https://github.com/thePortus/arakhne
+
+
+Programming the Past
+Course workbook and notebooks for HIS4936 @ The University of South Florida
+https://theportus.github.io/programming-the-past/
+Книга Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/
 
 
 https://github.com/aashu1328/Natural-language-Processing
