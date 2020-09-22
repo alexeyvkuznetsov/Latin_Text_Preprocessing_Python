@@ -6,6 +6,20 @@ https://github.com/ykim01/Hauber-2017
 https://github.com/alan-turing-institute/hartlib
 
 
+Проекты с латинским языком
+https://github.com/sjhuskey
+
+Оч. интересный пример
+https://github.com/sjhuskey/what-is-digital-latin
+
+Text mining dreek
+https://github.com/kasev/DiRECT-rep
+
+https://github.com/kasev/text-mining_python
+
+
+
+
 
 https://github.com/aashu1328/Natural-language-Processing
 
