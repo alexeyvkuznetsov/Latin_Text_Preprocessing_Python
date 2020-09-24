@@ -20,6 +20,10 @@ https://github.com/milescward/UsingCLTK
 
 
 
+https://github.com/paolomonella/ursus
+
+
+An experimental scholarly digital edition of section De nomine (folia 1r-11r) 
 https://github.com/bwhicks/pliny-data
 
 Data scraping tools and notes for Pliny's Epistulate from PHI7
@@ -69,7 +73,7 @@ https://github.com/JamesWinestock/cltk_experiments
 
 https://github.com/eoershova/HSE_projects
 
-
+https://github.com/oldschmetterhand/cantusNlp-py
 
 Много разных примеров
 https://github.com/kylepjohnson/notebooks
