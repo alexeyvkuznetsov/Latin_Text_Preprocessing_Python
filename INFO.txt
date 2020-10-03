@@ -1,4 +1,13 @@
 
+
+Руководство
+
+https://m-clark.github.io/text-analysis-with-R/
+
+https://tm4ss.github.io/docs/index.html
+
+https://rstudio-conf-2020.github.io/dl-keras-tf/notebooks/01-word-embeddings.nb.html#comparing_embeddings
+
 NLP: Word embeddings
 https://rstudio-conf-2020.github.io/dl-keras-tf/notebooks/01-word-embeddings.nb.html#word_embeddings_for_language_modeling
 
