@@ -1,0 +1,99 @@
+
+NLP: Word embeddings
+https://rstudio-conf-2020.github.io/dl-keras-tf/notebooks/01-word-embeddings.nb.html#word_embeddings_for_language_modeling
+
+Пакет печати зависимостей в тексте
+https://github.com/cran/textplot
+
+
+word2vec: Distributed Representations of Words
+https://cran.r-project.org/web/packages/word2vec/
+
+
+Пример подробный
+Word Embeddings Workshop
+http://benschmidt.org/UNC/installation.html
+
+https://rstudio-pubs-static.s3.amazonaws.com/225114_28f6a67eebce4641901e57201006964c.html
+
+T-SNE
+https://github.com/bmschmidt/wordVectors
+
+https://rdrr.io/github/bmschmidt/wordVectors/
+
+https://libraries.io/github/cpeeples/wordVectors
+
+http://yamano357.hatenadiary.com/entry/2015/11/04/000332
+
+https://github.com/bmschmidt/wordVectors/blob/master/vignettes/introduction.Rmd
+
+ИНТЕРЕСНО
+https://github.com/gaoyangxihehe/Sentiment-Analysis-And-Application-Based-On-The-Word2Vec-Method/blob/master/word2vec.R
+
+Печать в конце
+https://github.com/MyeongHaHwang/Word2Vec/blob/master/Word2Vec.R
+
+
+Максим
+http://myriobiblos.gr/texts/greek/maximos/index.htm
+http://theol.uni-sofia.bg/caspbl/tlmc/
+
+
+
+
+
+Word Vectors with tidy data principles
+https://www.r-bloggers.com/2017/10/word-vectors-with-tidy-data-principles/
+
+Руководство
+https://m-clark.github.io/text-analysis-with-R/
+
+
+Word vectors - doc2vec - text clustering
+https://cran.r-project.org/web/packages/textTinyR/vignettes/word_vectors_doc2vec.html
+
+
+word2vec + udpipe
+https://www.rdocumentation.org/packages/word2vec/versions/0.3.0
+
+
+ИНТЕРЕСНЫЙ ПРИМЕР
+library(rword2vec)
+library(lsa)
+http://pablobarbera.com/ECPR-SC105/code/16-word-embeddings.html
+https://rpubs.com/mukul13/rword2vec
+
+
+ПРИМЕР С QUANTEDA
+Replication: word embedding (gloVe/word2vec)
+https://quanteda.io/articles/pkgdown/replication/text2vec.html
+
+
+
+T-SNE
+
+https://cran.r-project.org/web/packages/tsne/index.html
+https://www.r-bloggers.com/2019/05/quick-and-easy-t-sne-analysis-in-r/
+https://www.r-bloggers.com/2017/09/multi-dimensional-reduction-and-visualisation-with-t-sne/
+
+https://www.rdocumentation.org/packages/tsne/versions/0.1-3
+https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/
+
+https://rpubs.com/marwahsi/tnse
+
+https://github.com/sydneycytometry/tSNEplots
+
+https://medium.com/@TheDataGyan/dimensionality-reduction-with-pca-and-t-sne-in-r-2715683819
+
+https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/
+
+https://www.r-bloggers.com/2019/05/quick-and-easy-t-sne-analysis-in-r/
+
+https://www.oreilly.com/content/an-illustrated-introduction-to-the-t-sne-algorithm/
+
+
+
+
+https://github.com/hartmannfj/data-analysis-workshop
+
+
