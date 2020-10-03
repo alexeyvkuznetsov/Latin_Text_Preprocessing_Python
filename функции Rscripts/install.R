@@ -1,0 +1,1 @@
+install.packages(pkgs=c("textreuse","text2vec","rjson","RWeka","stringr","udpipe"))
