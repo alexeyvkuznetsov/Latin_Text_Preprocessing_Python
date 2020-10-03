@@ -1,6 +1,17 @@
 
 
+
+https://stackoverflow.com/questions/39514941/preparing-word-embeddings-in-text2vec-r-package
+
+https://cran.rstudio.com/web/packages/text2vec/vignettes/text-vectorization.html
+
+
+
 Руководство
+
+https://srdas.github.io/MLBook/
+
+https://srdas.github.io/MLBook/Text2Vec.html
 
 https://m-clark.github.io/text-analysis-with-R/
 
